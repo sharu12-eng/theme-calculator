@@ -6,6 +6,13 @@ Users should be able to:
 - Adjust the color theme based on their preference
 
 
-![calculator](./idea/calc.jpg)
-
 ![image](https://github.com/sharu12-eng/theme-calculator/assets/156799116/32efcee0-dc66-42b0-bd96-18dafe2042a6)
+
+
+Built With:
+
+-Flexbox
+-CSS variables
+-CSS Grid
+-React - JS library
+-Next.js - React framework
