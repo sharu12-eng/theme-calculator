@@ -1,0 +1,19 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+*,
+*::before,
+*::after,
+input {
+  font-family: "Spartan", sans-serif;
+  box-sizing: border-box;
+}
